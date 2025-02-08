@@ -91,8 +91,8 @@ pip install -r requirements.txt
 ---
 
 ## 🎨 Screenshots
-![WarmlyV2 Chatbot Screenshot](https://your-image-url.com)  
-*(Replace with an actual screenshot from your app!)*
+![WarmlyV2 Chatbot Screenshot]([https://your-image-url.com](https://github.com/rahul-vinay/warmlyv2/blob/main/warmlyv2.png))  
+
 
 ---
 
