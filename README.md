@@ -91,7 +91,7 @@ pip install -r requirements.txt
 ---
 
 ## 🎨 Screenshots
-![WarmlyV2 Screenshot](https://github.com/your-username/warmlyv2/blob/main/warmlyv2.png?raw=true)
+![WarmlyV2 Screenshot](https://github.com/rahul-vinay/warmlyv2/blob/main/warmlyv2.png?raw=true)
 
 
 ---
