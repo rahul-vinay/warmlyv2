@@ -4,7 +4,7 @@
 It provides **weather updates** and engages users with AI-generated responses in different tones.
 
 ---
-## 🚀 Work in Progress
+## 🚧 Work in Progress
 This project is **experimental** and still under active development.  
 - Some features may not work as expected.  
 - Improvements and bug fixes are in progress.  
