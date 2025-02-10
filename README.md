@@ -4,7 +4,7 @@
 It provides **weather updates** and engages users with AI-generated responses in different tones.
 
 ---
-## 🚧 Work in Progress
+## 🚧 Work in Progress 🚧
 
 
 ## 🚀 Features
