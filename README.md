@@ -5,17 +5,14 @@ It provides **weather updates** and engages users with AI-generated responses in
 
 ---
 ## 🚧 Work in Progress
-This project is **experimental** and still under active development.  
-- Some features may not work as expected.  
-- Improvements and bug fixes are in progress.  
-- Future updates will enhance AI responses and user interaction.
+
 
 ## 🚀 Features
-- 🌍 **Fetches real-time weather data** using **OpenWeatherMap API**.
-- 🧠 **AI-generated responses** using OpenAI.
-- 🎭 **Custom behavior traits** (Funny, Charismatic, etc.).
-- 🜣️ **Supports multiple languages** (English, Swahili, French).
-- 🛠️ **Built with** Python, Streamlit, and LangChain.
+- **Fetches real-time weather data** using **OpenWeatherMap API**.
+- **AI-generated responses** using OpenAI.
+- **Custom behavior traits** (Funny, Charismatic, etc.).
+- **Supports multiple languages** (English, Swahili, French).
+- **Built with** Python, Streamlit, and LangChain.
 
 ---
 
