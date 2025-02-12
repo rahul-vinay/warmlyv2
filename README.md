@@ -11,7 +11,7 @@ It provides **weather updates** and engages users with AI-generated responses in
 - **Fetches real-time weather data** using **DataforSEO API**.
 - **AI-generated responses** using OpenAI.
 - **Custom behavior traits** (Funny, Charismatic, etc.).
-- **Supports multiple languages** (English, Swahili, French).
+- **Supports multiple languages** (English, German, French).
 - **Built with** Python, Streamlit, and LangChain.
 
 ---
