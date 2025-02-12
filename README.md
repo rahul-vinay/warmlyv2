@@ -42,7 +42,6 @@ touch .env
 ```
 Add your API keys inside `.env`:
 ```
-OPENWEATHERMAP_API_KEY=your_openweathermap_api_key
 OPENAI_API_KEY=your_openai_api_key
 DATAFORSEO_LOGIN=your_dataforseo_login
 DATAFORSEO_PASSWORD=your_dataforseo_password
