@@ -8,7 +8,7 @@ It provides **weather updates** and engages users with AI-generated responses in
 
 
 ## 🚀 Features
-- **Fetches real-time weather data** using **OpenWeatherMap API**.
+- **Fetches real-time weather data** using **DataforSEO API**.
 - **AI-generated responses** using OpenAI.
 - **Custom behavior traits** (Funny, Charismatic, etc.).
 - **Supports multiple languages** (English, Swahili, French).
